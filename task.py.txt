@@ -1,0 +1,25 @@
+1_No we can't convert str to int
+2_yes we can use ; in payton
+3_interpreted language
+4_High-level languages require the use of a compiler or an interpreter for their translation into the machine code.
+ Low-level language requires an assembler for directly translating the instructions of the machine language.
+5_The = is a simple assignment operator.
+ It assigns values from right side operands to the left side operand. While on the other hand == checks if the values of two operands are equal or not.
+6_check if value of two operands is not equal. if not then it is true
+7_the order of operations
+8_no we can't divide 11 by 3 and get an integer number
+9_'all' is an function,'and' is an operator
+10_'any' is a function.'or'operator
+11_use and
+12_The If statement is used to execute a single conditional statement whereas
+ elif statements are used with the if statement to execute multiple conditional statements 
+13_ال else بنستخدمها لما يكون في شرط غلط وعاوزين حاجه معينه تتنفذ وال
+elif بتبقي شرط واحد وبيجي عند اول شرط صح وبيوقف 
+14_yes we can use more than one elif
+15_we can't use more than one else
+16_yes it will check all the conditions
+17_In Python, when we use elif statements, the else block is used as a fallback or default case.
+
+
+
+
